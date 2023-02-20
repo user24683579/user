@@ -1,3 +1,7 @@
-h1{
-  font-size:46px
+.main h1{
+  font-size:46px;
+}
+
+.main{
+  background-image: Sir George Clausen.jpg;
 }
